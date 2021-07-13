@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.btn-primary {
+  color: #000 !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+}
